@@ -1,8 +1,11 @@
 # Patterns-in-comments-from-Reddit-social-network
 The objectives of this projectconcerning User/Comments in Reddit social network are to:
+
 ● Predict the gender of a user, based on their activity and comments
+
 ● Cluster the comments and analyze to which subreddit the clusters
 belong
+
 ● Experiment language models
 
 Indeed,
